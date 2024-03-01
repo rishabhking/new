@@ -1,3 +1,3 @@
 # new
 This is my practice repo.
-Author - Rishabh
+Author - Rishabh (extra info)
